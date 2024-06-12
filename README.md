@@ -44,4 +44,6 @@ Open `./src/index.html` file with your browser to see the result.
 
 ### Landing page Desktop view
 
-![homepage-desktop-view](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image3.png)
+![homepage-desktop-view](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image4.png)
+
+![homepage-desktop-view-full-screen](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image3.png)
