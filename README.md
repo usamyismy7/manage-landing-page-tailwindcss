@@ -38,12 +38,12 @@ Open `./src/index.html` file with your browser to see the result.
 
 ![hamburger-menu-icon](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image.png)
 
-### Landing page Mobile view
-
-![homepage-mobile-view](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image2.png)
-
 ### Landing page Desktop view
 
 ![homepage-desktop-view](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image4.png)
 
 ![homepage-desktop-view-full-screen](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image3.png)
+
+### Landing page Mobile view
+
+![homepage-mobile-view](https://raw.githubusercontent.com/usamyismy7/manage-landing-page-tailwindcss/main/assets/image2.png)
